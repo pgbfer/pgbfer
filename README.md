@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**pgbfer/pgbfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Olá!
 Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e automações.
 Sou um desenvolvedor apaixonado por automação, inteligência artificial
