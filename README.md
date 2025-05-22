@@ -11,8 +11,6 @@ Gosto de resolver problemas do dia a dia com soluções inovadoras e tecnologia.
 ![Git](https://img.shields.io/badge/
 -Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/
-Asimov Academy 50
-Git e GitHub ‑ Controle de Versão e Colaboração
 -GitHub-05122A?style=flat&logo=github)
 ![Python](https://img.shields.io/badge/
 -Python-05122A?style=flat&logo=python)
